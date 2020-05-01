@@ -1,0 +1,5 @@
+#path to files I want to keep private
+
+out/
+Projet2_Test.iml
+.idea/
